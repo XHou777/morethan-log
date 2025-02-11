@@ -89,7 +89,4 @@ const StyledWrapper = styled.div`
   .notion-list {
     width: 100%;
   }
-  .notion .katex-display {
-    text-align: center !important;
-  }
 `
