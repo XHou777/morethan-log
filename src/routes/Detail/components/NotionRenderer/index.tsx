@@ -89,8 +89,7 @@ const StyledWrapper = styled.div`
   .notion-list {
     width: 100%;
   }
-  .notion-equation {
-    display: flex;
-    justify-content: center;
+  .katex-display {
+    text-align: center;
   }
 `
